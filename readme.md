@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/fftg2tg67ox5u77x?svg=true)](https://ci.appveyor.com/project/Boarderbare/aqa-dz5-formauth)
